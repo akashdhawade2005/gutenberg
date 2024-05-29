@@ -15,7 +15,7 @@ import { keyboard } from './keyboard';
 import { unknown } from './unknown';
 import { language } from './language';
 import { nonBreakingSpace } from './non-breaking-space';
-import { comment } from './comment/';
+//import { comment } from './comment/';
 
 export default [
 	bold,
@@ -32,5 +32,5 @@ export default [
 	unknown,
 	language,
 	nonBreakingSpace,
-	comment,
+	//comment,
 ];

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "core/collab",
+	"title": "Collaboration",
+	"category": "common",
+	"description": "A collaborative block for team contributions.",
+	"textdomain": "default",
+	"attributes": {
+	},
+	"supports": {
+		"html": true,
+		"multiple": true,
+		"reusable": true,
+		"inserter": true,
+		"interactivity": {
+			"clientNavigation": true
+		}
+	},
+	"style": "wp-block-collab",
+	"editorStyle": "wp-block-collab-editor"
+}
